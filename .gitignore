@@ -1,3 +1,5 @@
+# From github:
+
 # Prerequisites
 *.d
 
@@ -30,3 +32,9 @@
 *.exe
 *.out
 *.app
+
+
+# mine
+/build/
+*.swp
+
